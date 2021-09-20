@@ -4,7 +4,6 @@
 - 🌱 I’m currently improving .NET / C# / English
 - 🌱 I’m currently learning Microservices / ASP.NET / ASP.NET MVC / Git
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafaelveiga/)
-
 <!--
 **rafaelrveiga/rafaelrveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +14,6 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
+
+![Rafael Status](https://github-readme-stats.vercel.app/api?username=rafaelrveiga&&theme=dark&show_icons=true)
 -->
