@@ -1,19 +1,18 @@
-### Hi there 👋 My name is Rafael Veiga.
+# Hi there 👋
 
-- 🔭 I’m currently working on .NET / C# / JavaScript / HTML / SQL / SVN
-- 🌱 I’m currently improving .NET / C# / English
-- 🌱 I’m currently learning Microservices / ASP.NET / ASP.NET MVC / Git
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rafaelrveiga/)
+🔭 I’m currently working on .NET / C# / JavaScript / HTML / SQL / SVN
+
+🌱 I’m currently improving .NET / C# / English skills
+
+🌱 I’m currently learning Microservices / ASP.NET / ASP.NET MVC / Git
+
+📫 How to reach me: <a href="https://www.linkedin.com/in/rafaelrveiga/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=plastic-square&logo=linkedin&logoColor=white"/>
+</a>
+
 <!--
-**rafaelrveiga/rafaelrveiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
-
-![Rafael Status](https://github-readme-stats.vercel.app/api?username=rafaelrveiga&&theme=dark&show_icons=true)
+<a href="http://github.com/rafaelrveiga">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rafaelrveiga&theme=dark&show_icons=true&count_private=true&include_all_commits=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelrveiga&theme=dark&layout=compact" />
+</a>
 -->
